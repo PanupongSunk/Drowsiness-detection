@@ -17,6 +17,8 @@ These 20s RGB color data are used to calculate the rPPG signal using the modifie
 [2] Ryu, J., et al. (2021). "Research on the combination of color channels in heart rate measurement based on photoplethysmography imaging." J Biomed Opt 26(2).<br>
 [3] Sunkom, P., Worasawate, D., Srisurangkul, C., and Nakayama, M. (2023). Improved Heart Rate Estimation From Facial Videos Using Hair Detection and Majority Vote in Subintervals. In Proceedings of  JCSSE 2023 the Twentieth International Joint Conference on Computer Science and Software Engineering, pp. 380-384. Phitsanulok, Thailand.<br>
 [4] Neurokit2: https://github.com/neuropsychology/NeuroKit<br>
+# Noted from author
+This is the prototype work, the author aims to improve this work in the future. The main problem of this work for now is the computation time which require a lot of time to run the program and generate result.
 
 
 
